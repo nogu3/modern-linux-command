@@ -13,5 +13,5 @@ success:
 batcat test.txt
 ```
 
-FYI
+FYI  
 https://github.com/sharkdp/bat/blob/master/doc/README-ja.md
