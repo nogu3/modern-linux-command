@@ -1,0 +1,6 @@
+version: '3'
+services:
+  modern_linux:
+    build: .
+    container_name: modern_linux
+    tty: true
