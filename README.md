@@ -2,7 +2,7 @@
 hang out modern linux command.
 
 # bat
-hang out bat is 
+hang out bat is  
 failed:
 ```
 bat text.txt
